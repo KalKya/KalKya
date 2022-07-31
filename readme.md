@@ -1,5 +1,5 @@
 ### Hi there 👋 Nice to see u.
-[![image](https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg)](#)
+[![image](https://twitter.com/tkn0801/status/1525926055814795265)](#)
 
 - 😄 My name is: Nachapon Norrarat
 - ⚡ Student id: 63361696
