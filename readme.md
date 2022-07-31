@@ -1,8 +1,10 @@
 ### Hi there 👋 Nice to see u.
+[![image](https://pbs.twimg.com/media/FU3OMdyacAAqMED.jpg)](#)
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Nachapon Norrarat
+- ⚡ Student id: 63361696
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 😱 Career interest in the future : I don't know yet
 
 ## Developer Tech
 
